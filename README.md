@@ -1,3 +1,6 @@
+PRODEV FRONTEND
+
+
 This project is a clone of the popular accomodation booking platform AirBnB.
 
 
@@ -67,3 +70,8 @@ Site links
 - Company information
 - Social media links
 - Copyright information
+
+
+PRODEV BACKEND
+
+The Airbnb Clone Project is a clone of the popular accomodation booking platform AirBnB. This project is a comprehensive, real-world application designed to simulate the development of a robust booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, database design, API development, and application security.
