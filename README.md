@@ -46,7 +46,7 @@ Project Roles and Responsibilities
 - Scrum Master:	Facilitates agile processes, removes blockers, organizes meetings
 
 
-UI COMPONENT PATTERNS
+UI Component Patterns
 
 Planned Components
 
