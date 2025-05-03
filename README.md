@@ -130,7 +130,7 @@ Reviews
 - DELETE /reviews/{review_id}/ - Delete a specific review
 
 
-Feature Overview
+Feature Breakdown
 
 1. API Documentation
 OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
