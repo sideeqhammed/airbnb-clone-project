@@ -160,3 +160,23 @@ Features: Post and manage reviews for properties.
 7. Database Optimizations
 Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
+
+
+API Security
+
+Key security measures will be implemented:
+- Authentication: Token-based authentication (e.g., JWT) ensures only verified users can access the API.
+- Authorization: Role-based access control (RBAC) restricts users to specific actions based on their assigned roles.
+- Rate Limiting: Limits the number of requests from a user or IP to prevent abuse and DoS attacks.
+- Data Encryption: All data in transit will be encrypted using HTTPS (TLS) to protect against interception or tampering.
+
+Importance of Security in Key Project Areas:
+-User Data Protection: Ensures personal information remains private and secure from breaches or unauthorized access.
+- Payment Security: Prevents financial fraud and protects sensitive transaction data.
+- Business Logic Integrity: Avoids manipulation or misuse of core functionalities by unauthorized actors.
+- System Availability: Shields the system from overuse or malicious attacks that could cause downtime.
+
+
+CI/CD Pipelines
+
+A CI/CD (Continuous Integration/Continuous Delivery/Deployment) pipeline is an automated workflow in software development that streamlines the process of building, testing, and deploying applications. Tools that could be used include GitHub Actions, Docker, Jenkins, Azure pipelines.
